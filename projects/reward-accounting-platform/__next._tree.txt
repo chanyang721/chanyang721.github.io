@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/2wky8fs_-i5xt.css","style"]
 :HL["/_next/static/chunks/37kp1iyx0u6_0.css","style"]
 :HL["/_next/static/chunks/23teqky0d5eek.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"reward-accounting-platform","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8EvkPQbcjTZzDDOBxlMFK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"reward-accounting-platform","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-qkF-XnGB03rRbKU5v4PM"}
