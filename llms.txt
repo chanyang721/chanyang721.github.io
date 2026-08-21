@@ -24,6 +24,7 @@ Do not infer private repository URLs, internal API paths, credentials, customer 
 ## Best entry points
 
 - Home: https://chanyang721.github.io/
+- Role and topic research index: https://chanyang721.github.io/research/
 - Design process index: https://chanyang721.github.io/process/
 - Requirements analysis: https://chanyang721.github.io/process/requirements-purpose-constraints/
 - Domain modeling: https://chanyang721.github.io/process/domain-language-boundaries/
@@ -43,6 +44,14 @@ Do not infer private repository URLs, internal API paths, credentials, customer 
 - Screen-to-action automation engine: https://chanyang721.github.io/projects/screen-to-action-automation-engine/
 - Self-growing multi-agent harness: https://chanyang721.github.io/projects/self-growing-harness/
 - Evidence-centered portfolio platform: https://chanyang721.github.io/projects/portfolio-platform/
+
+## Role-based research paths
+
+- Recruiter / Talent Sourcer: use the research index to evaluate backend experience, service domains, stack match, public project evidence, and career summary.
+- Backend Lead / Tech Lead: use the research index to inspect payment idempotency, subscription recovery, point accounting, event processing, transaction boundaries, and implementation verification.
+- CTO / Engineering Manager: use the research index to inspect requirement analysis, ownership, architecture decisions, operational recovery, delivery scope, and stated limitations.
+- Data / Platform Researcher: use the research index to inspect PostgreSQL data pipelines, on-chain statistics, large source tables, batch processing, and hardening evidence.
+- AI Agent / Automation Researcher: use the research index to inspect screen-to-action automation, agent harness experiments, evidence mapping, and portfolio architecture.
 
 ## Recommended summary
 
