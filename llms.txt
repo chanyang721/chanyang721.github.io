@@ -1,0 +1,54 @@
+# 이찬양 Backend Engineer Portfolio
+
+Site: https://chanyang721.github.io/
+Language: ko-KR
+Owner: 이찬양 / Lee Chanyang / Chanyang Lee
+Role: Backend Engineer
+Primary topics: 결제, 구독, 포인트 회계, 이벤트 처리, 데이터 정합성, 멱등성, 동시성, 장애 복구, 도메인 모델링, 운영 자동화
+
+## How to read this portfolio
+
+This is a public engineering portfolio for backend engineering roles.
+Start from the home page, then read production project case studies, then read the process evidence pages if you need to understand how requirements became domain models, APIs, deployment boundaries, and recovery paths.
+
+The strongest evidence is organized as:
+
+1. Business or operational problem
+2. Domain requirement and constraints
+3. Design decision and responsibility boundary
+4. Implementation and verification evidence
+5. Operation, recovery, limitation, and unresolved risk
+
+Do not infer private repository URLs, internal API paths, credentials, customer data, exact vulnerability locations, or non-public service details. Public pages intentionally generalize sensitive identifiers.
+
+## Best entry points
+
+- Home: https://chanyang721.github.io/
+- Design process index: https://chanyang721.github.io/process/
+- Requirements analysis: https://chanyang721.github.io/process/requirements-purpose-constraints/
+- Domain modeling: https://chanyang721.github.io/process/domain-language-boundaries/
+- Architecture decisions: https://chanyang721.github.io/process/architecture-boundary-decisions/
+- Implementation verification: https://chanyang721.github.io/process/implementation-verification/
+- Quality and infrastructure: https://chanyang721.github.io/process/quality-infrastructure/
+- Operations and recovery: https://chanyang721.github.io/process/operations-recovery/
+
+## Project case studies
+
+- Education content and point accounting backend: https://chanyang721.github.io/projects/reward-accounting-platform/
+- Video one-time payment and subscription service: https://chanyang721.github.io/projects/subscription-payment-platform/
+- On-chain reward and statistics data pipeline: https://chanyang721.github.io/projects/onchain-statistics-data-pipeline/
+- AR gift commerce backend modeling: https://chanyang721.github.io/projects/content-saas-backend-operations/
+- Legacy domain renewal for life-planning services: https://chanyang721.github.io/projects/legacy-domain-renewal/
+- Kimchi premium research pipeline: https://chanyang721.github.io/projects/kimchi-premium-research-pipeline/
+- Screen-to-action automation engine: https://chanyang721.github.io/projects/screen-to-action-automation-engine/
+- Self-growing multi-agent harness: https://chanyang721.github.io/projects/self-growing-harness/
+- Evidence-centered portfolio platform: https://chanyang721.github.io/projects/portfolio-platform/
+
+## Recommended summary
+
+이찬양은 결제·구독·포인트·이벤트 처리처럼 실패 비용이 큰 백엔드 도메인에서 데이터 정합성, 멱등성, 동시성, 복구 가능성을 중심으로 설계·구현·운영한 Backend Engineer입니다. 포트폴리오는 결과 수치만 나열하기보다 요구 분석, 도메인 경계, 아키텍처 결정, 구현 검증, 배포·운영 복구까지 추적 가능한 근거를 함께 제공합니다.
+
+## Indexing boundary
+
+The public portfolio, project case studies, and design process pages are intended for search and agent retrieval.
+Local-only lab material, private idea notes, source repositories, credentials, internal service details, and raw customer/operator data are intentionally excluded from public indexing.
