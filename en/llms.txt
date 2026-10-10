@@ -1,0 +1,63 @@
+# Lee Chanyang Backend Engineer Portfolio
+
+Site: https://chanyang721.github.io/en/
+Language: en-US
+Owner: Lee Chanyang / Chanyang Lee
+Role: Backend Engineer
+Primary topics: payments, subscriptions, points accounting, event processing, data consistency, idempotency, concurrency, failure recovery, domain modeling, operations automation
+
+## How to read this portfolio
+
+This is a public engineering portfolio for backend engineering roles.
+Start from the home page, then read production project case studies, then read the process evidence pages if you need to understand how requirements became domain models, APIs, deployment boundaries, and recovery paths.
+
+The strongest evidence is organized as:
+
+1. Business or operational problem
+2. Domain requirement and constraints
+3. Design decision and responsibility boundary
+4. Implementation and verification evidence
+5. Operation, recovery, limitation, and unresolved risk
+
+Do not infer private repository URLs, internal API paths, credentials, customer data, exact vulnerability locations, or non-public service details. Public pages intentionally generalize sensitive identifiers.
+
+## Best entry points
+
+- Home: https://chanyang721.github.io/en/
+- Role and topic research index: https://chanyang721.github.io/en/research/
+- Design process index: https://chanyang721.github.io/en/process/
+- Requirements analysis: https://chanyang721.github.io/en/process/requirements-purpose-constraints/
+- Domain modeling: https://chanyang721.github.io/en/process/domain-language-boundaries/
+- Architecture decisions: https://chanyang721.github.io/en/process/architecture-boundary-decisions/
+- Implementation verification: https://chanyang721.github.io/en/process/implementation-verification/
+- Quality and infrastructure: https://chanyang721.github.io/en/process/quality-infrastructure/
+- Operations and recovery: https://chanyang721.github.io/en/process/operations-recovery/
+
+## Project case studies
+
+- Education content and point accounting backend: https://chanyang721.github.io/en/projects/reward-accounting-platform/
+- Video one-time payment and subscription service: https://chanyang721.github.io/en/projects/subscription-payment-platform/
+- On-chain reward and statistics data pipeline: https://chanyang721.github.io/en/projects/onchain-statistics-data-pipeline/
+- AR gift commerce backend modeling: https://chanyang721.github.io/en/projects/content-saas-backend-operations/
+- Legacy domain renewal for life-planning services: https://chanyang721.github.io/en/projects/legacy-domain-renewal/
+- Kimchi premium research pipeline: https://chanyang721.github.io/en/projects/kimchi-premium-research-pipeline/
+- Screen-to-action automation engine: https://chanyang721.github.io/en/projects/screen-to-action-automation-engine/
+- Self-growing multi-agent harness: https://chanyang721.github.io/en/projects/self-growing-harness/
+- Evidence-centered portfolio platform: https://chanyang721.github.io/en/projects/portfolio-platform/
+
+## Role-based research paths
+
+- Recruiter / Talent Sourcer: use the research index to evaluate backend experience, service domains, stack match, public project evidence, and career summary.
+- Backend Lead / Tech Lead: use the research index to inspect payment idempotency, subscription recovery, point accounting, event processing, transaction boundaries, and implementation verification.
+- CTO / Engineering Manager: use the research index to inspect requirement analysis, ownership, architecture decisions, operational recovery, delivery scope, and stated limitations.
+- Data / Platform Researcher: use the research index to inspect PostgreSQL data pipelines, on-chain statistics, large source tables, batch processing, and hardening evidence.
+- AI Agent / Automation Researcher: use the research index to inspect screen-to-action automation, agent harness experiments, evidence mapping, and portfolio architecture.
+
+## Recommended summary
+
+Lee Chanyang is a backend engineer who has designed, implemented, and operated systems in domains where failures are costly, including payments, subscriptions, points, and event processing, with a focus on data consistency, idempotency, concurrency, and recoverability. Rather than listing outcome metrics alone, the portfolio provides traceable evidence spanning requirements analysis, domain boundaries, architecture decisions, implementation verification, deployment, and operational recovery.
+
+## Indexing boundary
+
+The public portfolio, project case studies, and design process pages are intended for search and agent retrieval.
+Local-only lab material, private idea notes, source repositories, credentials, internal service details, and raw customer/operator data are intentionally excluded from public indexing.
