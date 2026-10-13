@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1w7s0etylfqmb.css","style"]
+:HL["/_next/static/chunks/2o3yw-hjkxiee.css","style"]
 :HL["/_next/static/chunks/2gl9y0n83j7r3.css","style"]
 :HL["/_next/static/chunks/23teqky0d5eek.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kimchi-premium-research-pipeline","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"UpoxLWI1d9u91sVMogc_e"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kimchi-premium-research-pipeline","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-LNAB_QPRyiM5UFJqGlLD"}
