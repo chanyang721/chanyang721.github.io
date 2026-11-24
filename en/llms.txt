@@ -38,10 +38,13 @@ Do not infer private repository URLs, internal API paths, credentials, customer 
 - Education content and point accounting backend: https://chanyang721.github.io/en/projects/reward-accounting-platform/
 - Video one-time payment and subscription service: https://chanyang721.github.io/en/projects/subscription-payment-platform/
 - On-chain reward and statistics data pipeline: https://chanyang721.github.io/en/projects/onchain-statistics-data-pipeline/
+- Limited-edition raffle and waiting-room platform (in progress)
+- Sleep brand online store and CRM order integration (in progress)
 - AR gift commerce backend modeling: https://chanyang721.github.io/en/projects/content-saas-backend-operations/
 - Legacy domain renewal for life-planning services: https://chanyang721.github.io/en/projects/legacy-domain-renewal/
 - Kimchi premium research pipeline: https://chanyang721.github.io/en/projects/kimchi-premium-research-pipeline/
 - Screen-to-action automation engine: https://chanyang721.github.io/en/projects/screen-to-action-automation-engine/
+- Herdr multi-agent workspace sidebar theme: https://chanyang721.github.io/en/projects/herdr-theme/
 - Self-growing multi-agent harness: https://chanyang721.github.io/en/projects/self-growing-harness/
 - Evidence-centered portfolio platform: https://chanyang721.github.io/en/projects/portfolio-platform/
 
