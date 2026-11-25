@@ -1,4 +1,4 @@
 :HL["/en/_next/static/chunks/2mmh1e1nrgwwo.css","style"]
 :HL["/en/_next/static/chunks/1uswzbp7nju0h.css","style"]
 :HL["/en/_next/static/chunks/0op3qglcsbmb8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screen-to-action-automation-engine","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XN2gsRw4P1SL6mEW6HDFB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"screen-to-action-automation-engine","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"VNxfbCK5mrKydUU7Zhdsd"}
